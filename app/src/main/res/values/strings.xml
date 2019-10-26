@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">FoodandDrink</string>
+    <string name="title_drinks" />
+    <string name="title_foods" />
+    <string name="selamat_datang_di_halaman_drinks">Selamat datang di halaman Drinks</string>
+    <string name="selamat_datang_di_halaman_foods">Selamat datang di halaman Foods</string>
+    <string name="favorite">favorite</string>
+    <string name="share">share</string>
+    <string name="nama">nama</string>
+
+    <string-array name="foods_name">
+        <item>Ayam Bakar Madu</item>
+        <item>Bakso</item>
+        <item>Gado-gado</item>
+        <item>Ikan Bakar</item>
+        <item>Mie Setan</item>
+        <item>Nasi Goreng</item>
+        <item>Nasi Kuning</item>
+        <item>Nasi Padang</item>
+        <item>Rendang</item>
+        <item>Sate Lontong</item>
+    </string-array>
+
+    <string-array name="drinks_name">
+        <item>Es Buah</item>
+        <item>Es Campur</item>
+        <item>Es Dawet</item>
+        <item>Es Degan</item>
+        <item>Es Tebu</item>
+        <item>Es Teh</item>
+        <item>Jus Jeruk</item>
+        <item>Kopi</item>
+        <item>Susu</item>
+        <item>Thai Tea</item>
+    </string-array>
+
+    <array name="foods_image">
+        <item>@drawable/ayambakarmadu</item>
+        <item>@drawable/bakso</item>
+        <item>@drawable/gado_gado</item>
+        <item>@drawable/ikan_bakar</item>
+        <item>@drawable/mie_setan</item>
+        <item>@drawable/nasi_goreng</item>
+        <item>@drawable/nasi_uning</item>
+        <item>@drawable/nasi_adang</item>
+        <item>@drawable/rendang</item>
+        <item>@drawable/sate_lontong</item>
+    </array>
+
+    <array name="drinks_image">
+        <item>@drawable/es_buah</item>
+        <item>@drawable/es_campur</item>
+        <item>@drawable/es_dawet</item>
+        <item>@drawable/es_degan</item>
+        <item>@drawable/es_tebu</item>
+        <item>@drawable/es_teh</item>
+        <item>@drawable/jus_jeruk</item>
+        <item>@drawable/kopi</item>
+        <item>@drawable/susu</item>
+        <item>@drawable/thai_thea</item>
+    </array>
+</resources>
